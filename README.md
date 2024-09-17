@@ -4,6 +4,7 @@
 - 📝 I´m currently Studying at 42 Porto.
 - 🌱 I’m currently learning Linux, Shell and C.
 <br>
+
 > :desktop_computer:  Languages - C 
 > :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
 > :atom:  IDEs - Vim | Visual Studio Code
@@ -15,6 +16,7 @@
   <a href="https://www.linkedin.com/in/gustavoanjinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 <br>
 
 ![Mario programmer](https://github.com/anjinhogustavo/anjinhogustavo/assets/98332278/80f89916-362f-4fe0-a36b-1e3624a977c8)
